@@ -7,7 +7,7 @@ HXXP connects to a url, issues an HTTP request, and recieves an HTTP resonse.
 The headers and body is extracted from the response and stored in a SQLITE database along with the timestamp.
 The timestamp is in format YYYYMMDD
 
-#PXXH
+# PXXH
 Used to retrieve records stored by HXXP by timestamp.
 If record exists, url,header,and body are printed out for corresponding record
 
