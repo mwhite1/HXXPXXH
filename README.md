@@ -43,3 +43,7 @@ DB_PATH is a sqlite database (default: sqlite.db).
 URL is an HTTP or HTTPS url to connect to (e.g. https://www.example.com).
 TIMESTAMP is a 4-digit Year, 2-digit Month, 2-digit Day formatted timestamp.
 
+## Test Environment
+Python Version: 3.4.2
+OS: Microsoft Windows 10
+
